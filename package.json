@@ -1,0 +1,33 @@
+{
+  "name": "@hamzaahmed0987/simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with typeScript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "simple-calculator": "index.ts"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamza Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaahmed987/A-simple-calculator.git"
+  },
+  "keywords": [
+    "Cakculator"
+  ],
+  "bugs": {
+    "url": "https://github.com/hamzaahmed987/A-simple-calculator/issues"
+  },
+  "homepage": "https://github.com/hamzaahmed987/A-simple-calculator#readme"
+}
